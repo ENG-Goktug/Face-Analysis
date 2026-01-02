@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# IDE files
+.idea/
+
+# OS files
+__pycache__/
+*.pyc
+
+# Models
+models/*.h5
+models/*.hdf5
